@@ -1,1 +1,22 @@
 ophtho thesis on early diagnostic features of glaucoma in asymptomatic individuals
+name 
+sex
+mrd number
+visual field right best corrected
+visual field left best corrected
+slit lamp anterior chamber right
+slit lamp anterior chamber left
+applantation tonometry right
+applantation tonometry left
+right gonioscopy
+left gonioscopy
+right ONH after dilatation CD ratio
+left ONH after dilatation CD ratio
+right SS OCT RFNL thickness
+left SS OCT RFNL thickness
+right SS OCT GCC Superior thickness
+left SS OCT GCC Superior thickness
+right SS OCT GCC inferior thickness
+left SS OCT GCC inferior thickness
+right SS OCT GCC total thickness
+left SS OCT GCC total thickness
